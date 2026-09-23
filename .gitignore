@@ -1,0 +1,29 @@
+# Python
+__pycache__/
+*.py[cod]
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Virtual environments
+venv/
+.venv/
+env/
+
+# VS Code
+.vscode/
+
+# Model files
+*.pt
+*.pth
+*.bin
+*.ckpt
+
+# Logs
+*.log
+
+# Kaggle credentials
+kaggle.json
+
+# Temporary files
+*.tmp
